@@ -5,7 +5,7 @@ Version: 0.1.0
 Authors@R: c(
     person("Thanneer", "Perumal", email = "first.last@example.com", role = c("aut", "cre")),
     person("Kenneth", "Daily", email = "kenneth.daily@sagebase.org", role = c("aut"))
-)
+    )
 Description: More about what it does (maybe more than one line)
 License: GPL
 LazyData: TRUE
