@@ -9,3 +9,16 @@ Authors@R: c(
 Description: More about what it does (maybe more than one line)
 License: GPL
 LazyData: TRUE
+Imports:
+    plyr,
+    dplyr,
+    ggvis,
+    ggdendro,
+    reshape,
+    grid,
+    ggplot2,
+    RColorBrewer,
+    FDb.InfiniumMethylation.hg19,
+    vcd,
+    psych,
+    statmod
